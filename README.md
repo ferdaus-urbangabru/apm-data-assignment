@@ -54,6 +54,7 @@ The output includes sales-band information and the SQL file contains a bonus sal
 ## Validation
 
 - Source rows processed: 1,389
+- Note: The assignment description states 1,419 rows, while the provided `assignment_data.csv` contains 1,389 rows; the solution processes the provided dataset as-is.
 - Output columns: 36
 - Suggested units: 889,103
 - Suggested cases: 10,563
